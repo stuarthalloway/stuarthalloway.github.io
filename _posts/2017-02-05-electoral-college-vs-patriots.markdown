@@ -33,7 +33,7 @@ sounds pretty formidable. Can the Patriots beat their opponents and
 the Electoral College too?
 
 Not a chance. When the Electoral College spots their opponents a Super
-Bowl touchdown, the New England Patriots deflate completely.
+Bowl touchdown, the Patriots deflate completely.
 Worst. Folders. Evah. They have been to eight Super Bowls, and lost
 every one. How sad. No wonder Tom Brady has a [Trump hat][trump-hat].
 
