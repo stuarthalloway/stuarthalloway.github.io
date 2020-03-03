@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "I Believe"
+date:   2020-03-03 10:00:00 -0500
+---
+I believe in the U.S. Constitution, and in the rule of law.
+
+I believe that capitalism works, creating wealth that improves life for everyone. I also believe in the power of government (and only government) to do the biggest things -- to end slavery, to stop genocide, to create a safety net for all, to control climate change, to mitigate natural disasters, and to safeguard our civil liberties. Because I believe in both of these things, I believe both in getting rich by working hard, and also in a [circa 1950 progressive tax structure][animated-tax].
+
+I believe that the [American prison system is modern slavery][new-jim-crow], and that we must end it.
+
+I believe that we should listern to experts. I know that the scientific method produces facts--facts like [gravity][gravity], [evolution][evolution], and [climate change][climate-change]. These facts do not care about our feelings, or about what is convenient or easy.
+
+I believe that [honesty][fact-check] and integrity are fundamental in life and in politics. I put my trust in those who would bring us together in compassion, and I stand against those who would drive us apart in fear.
+
+I believe that my children can inherit a [better world][factfulness] than the world that I grew up in, if we have the courage to make that world together.
+
+I believe that government is something we should be proud of, and consider ourselves a part of. 
+
+I voted for [Elizabeth Warren][warren] today.
+
+[animated-tax]:https://twitter.com/DLeonhardt/status/1181004566088814594
+[new-jim-crow]:http://newjimcrow.com
+[gravity]:https://ncse.ngo/gravity-its-only-theory
+[evolution]:https://www.goodreads.com/book/show/4005310-why-evolution-is-true
+[climate-change]:https://xkcd.com/1732/
+[fact-check]:https://www.factcheck.org
+[factfulness]:https://www.amazon.com/Factfulness-Reasons-World-Things-Better/dp/1250107814
+[warren]:https://elizabethwarren.com
+
+
